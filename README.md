@@ -15,7 +15,6 @@ Um aplicativo de lista de tarefas (ToDo) desenvolvido com **Java Spring Boot**, 
 - **BCrypt**: Para criptografia de senhas.
 - **H2 Database**: Banco de dados em memória para testes rápidos.
 - **Maven**: Gerenciamento de dependências e automação de build.
-- **Docker**: Para containerização da aplicação.
 
 ## Como Rodar o Projeto Localmente 💻
 
